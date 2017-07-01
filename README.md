@@ -1,4 +1,5 @@
-# nodejs-basicand allow user toadd the new lan
+# nodejs-basic 
+Allow user to add the new language in language dictionay 
 Sample app to get and post the request in node js.
 # What
 This app load the langauage available in the language dictionary , and allow user to add the new language in the dictionary and also do the delete 
